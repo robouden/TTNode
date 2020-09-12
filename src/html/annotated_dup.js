@@ -1,0 +1,25 @@
+var annotated_dup =
+[
+    [ "_ttproto_Telecast", "struct__ttproto___telecast.html", "struct__ttproto___telecast" ],
+    [ "btc_evt_t", "structbtc__evt__t.html", "structbtc__evt__t" ],
+    [ "btc_s", "structbtc__s.html", "structbtc__s" ],
+    [ "btp_s", "structbtp__s.html", "structbtp__s" ],
+    [ "cmdbuf_s", "structcmdbuf__s.html", "structcmdbuf__s" ],
+    [ "ConfigVars", "struct_config_vars.html", "struct_config_vars" ],
+    [ "ConfigVars2", "struct_config_vars2.html", "struct_config_vars2" ],
+    [ "data_t", "structdata__t.html", "structdata__t" ],
+    [ "Firmware", "struct_firmware.html", "struct_firmware" ],
+    [ "group_s", "structgroup__s.html", "structgroup__s" ],
+    [ "group_state_s", "structgroup__state__s.html", "structgroup__state__s" ],
+    [ "HistogramData", "struct_histogram_data.html", "struct_histogram_data" ],
+    [ "PMData", "struct_p_m_data.html", "struct_p_m_data" ],
+    [ "repeat_s", "structrepeat__s.html", "structrepeat__s" ],
+    [ "sensor_s", "structsensor__s.html", "structsensor__s" ],
+    [ "sensor_state_s", "structsensor__state__s.html", "structsensor__state__s" ],
+    [ "stats_s", "structstats__s.html", "structstats__s" ],
+    [ "Status", "struct_status.html", "struct_status" ],
+    [ "ttstorage_", "unionttstorage__.html", "unionttstorage__" ],
+    [ "twi_context_s", "structtwi__context__s.html", "structtwi__context__s" ],
+    [ "tx_message_t", "structtx__message__t.html", "structtx__message__t" ],
+    [ "write_params_t", "structwrite__params__t.html", "structwrite__params__t" ]
+];

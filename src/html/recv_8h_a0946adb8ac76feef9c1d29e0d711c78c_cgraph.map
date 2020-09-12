@@ -1,0 +1,18 @@
+<map id="recv_message_from_service" name="recv_message_from_service">
+<area shape="rect" id="node1" title=" " alt="" coords="5,349,195,376"/>
+<area shape="rect" id="node2" href="$comm_8c.html#a4e99ea5998d66c3443d5889a06b88c57" title=" " alt="" coords="266,5,387,32"/>
+<area shape="rect" id="node3" href="$comm_8c.html#ac0d72b559b1deeb89b9c1957374126f1" title=" " alt="" coords="251,57,403,98"/>
+<area shape="rect" id="node4" href="$io_8c.html#a5312784825b6fc0f580239352c385672" title=" " alt="" coords="263,123,390,149"/>
+<area shape="rect" id="node6" href="$sensor_8c.html#a8d6acc61b24bf66951c5955c947e0f24" title=" " alt="" coords="251,174,402,215"/>
+<area shape="rect" id="node7" href="$storage_8c.html#a5d7af32088297d42a7223923404be57d" title=" " alt="" coords="294,240,359,267"/>
+<area shape="rect" id="node8" href="$storage_8c.html#a4afbf21f3c5a85e5d090a691f0ce7373" title=" " alt="" coords="277,291,377,317"/>
+<area shape="rect" id="node9" href="$storage_8c.html#a6639814c6e8a19a0a2d7835265eed1f2" title=" " alt="" coords="259,342,394,383"/>
+<area shape="rect" id="node10" href="$storage_8c.html#a2b7f849f367f1d0549e4c11e3d5d61dc" title=" " alt="" coords="259,407,394,449"/>
+<area shape="rect" id="node11" href="$storage_8c.html#ad09b6bb7057b9a92b7d257c67b29a66f" title=" " alt="" coords="251,473,402,514"/>
+<area shape="rect" id="node12" href="$storage_8c.html#a311edb8013478c041330c73c1238fb71" title=" " alt="" coords="243,538,411,579"/>
+<area shape="rect" id="node13" href="$storage_8c.html#ab62caefbe4a368b1a512c418da801280" title=" " alt="" coords="259,603,395,645"/>
+<area shape="rect" id="node15" href="$storage_8c.html#a8922f49572bb527af3741c3bc43b1711" title=" " alt="" coords="257,669,396,710"/>
+<area shape="rect" id="node16" href="$storage_8c.html#a0e04bad658769e67843d9917f9bc66de" title=" " alt="" coords="245,734,408,775"/>
+<area shape="rect" id="node5" href="$storage_8c.html#a805f7dc65e333110a39fc0df5f3261cf" title=" " alt="" coords="459,123,593,149"/>
+<area shape="rect" id="node14" href="$config_8h.html#aeb79f86261de904967d433c1b5e9a1de" title=" " alt="" coords="495,611,557,637"/>
+</map>

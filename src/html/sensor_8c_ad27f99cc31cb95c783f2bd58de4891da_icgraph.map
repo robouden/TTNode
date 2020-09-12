@@ -1,0 +1,5 @@
+<map id="sensor_set_op_mode" name="sensor_set_op_mode">
+<area shape="rect" id="node1" title=" " alt="" coords="188,55,335,81"/>
+<area shape="rect" id="node2" href="$gpio_8h.html#a42d7962995666069b4dbee49ee9e2fce" title=" " alt="" coords="5,29,140,56"/>
+<area shape="rect" id="node3" href="$sensor_8h.html#a910bf39f5ec833fa170be480d942312f" title=" " alt="" coords="27,80,118,107"/>
+</map>

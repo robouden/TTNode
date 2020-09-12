@@ -1,0 +1,11 @@
+<map id="welcome_message" name="welcome_message">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,140,159"/>
+<area shape="rect" id="node2" href="$config_8c.html#ab6164930998dfc413494b5d7ac285bc4" title=" " alt="" coords="237,5,315,32"/>
+<area shape="rect" id="node3" href="$bt_8c.html#ada3dc5d222803c0b84ac86b51fd3723c" title=" " alt="" coords="204,56,348,83"/>
+<area shape="rect" id="node4" href="$bt_8c.html#a8403a4e99aa80bfa232183dc1863c7be" title=" " alt="" coords="198,107,354,133"/>
+<area shape="rect" id="node5" href="$io_8c.html#ac4fdc0f0b047e21914beb8f0f1a9348c" title=" " alt="" coords="199,157,353,184"/>
+<area shape="rect" id="node7" href="$io_8c.html#a732e4435189164af172ed2f4139e1e4f" title=" " alt="" coords="188,208,364,235"/>
+<area shape="rect" id="node8" href="$timer_8c.html#af0720d4dfc5d9dbc134c4fa9daf5185d" title=" " alt="" coords="217,259,335,285"/>
+<area shape="rect" id="node6" href="$storage_8c.html#a5d7af32088297d42a7223923404be57d" title=" " alt="" coords="463,157,528,184"/>
+<area shape="rect" id="node9" href="$timer_8c.html#a15cdbfca173a4f328da94c3ad9450912" title=" " alt="" coords="412,259,579,285"/>
+</map>

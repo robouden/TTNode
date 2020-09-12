@@ -1,0 +1,14 @@
+<map id="send_to_service_unconditionally" name="send_to_service_unconditionally">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,216,235"/>
+<area shape="rect" id="node2" href="$comm_8c.html#aa1ae25d1da3cf7400c5198fbf22b56a9" title=" " alt="" coords="275,56,413,83"/>
+<area shape="rect" id="node5" href="$comm_8c.html#ad0d33c0f571319d79fecd601d8b9bc1c" title=" " alt="" coords="264,107,424,133"/>
+<area shape="rect" id="node7" href="$storage_8c.html#a0f1b629b450a7343485285f9dc43fbb6" title=" " alt="" coords="313,157,375,184"/>
+<area shape="rect" id="node8" href="$send_8c.html#afcb72dd5b1c2128a02f39629fd161988" title=" " alt="" coords="280,208,408,235"/>
+<area shape="rect" id="node9" href="$send_8c.html#a49fcddb436b66026da3428c5ca2feb45" title=" " alt="" coords="269,259,419,301"/>
+<area shape="rect" id="node10" href="$send_8c.html#a86c00a37081fa4a20aabfd29b91de61c" title=" " alt="" coords="287,325,401,352"/>
+<area shape="rect" id="node11" href="$sensor_8c.html#ac182dd6a5999059c43ed3b39c49f60e3" title=" " alt="" coords="283,376,405,403"/>
+<area shape="rect" id="node3" href="$comm_8c.html#a7cf58b285dd2966230af54482e2e571f" title=" " alt="" coords="472,5,617,32"/>
+<area shape="rect" id="node4" href="$storage_8c.html#a162aea4a535ceca8780acd32ec2f137a" title=" " alt="" coords="501,56,589,83"/>
+<area shape="rect" id="node6" href="$comm_8c.html#aafd6cda05db639f3a6c3bd8fd3d50597" title=" " alt="" coords="496,107,593,133"/>
+<area shape="rect" id="node12" href="$battery_8c.html#a796425393eb0f5deef84dfdf112ff20f" title=" " alt="" coords="499,376,590,403"/>
+</map>

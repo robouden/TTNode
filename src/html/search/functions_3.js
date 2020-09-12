@@ -1,0 +1,16 @@
+var searchData=
+[
+  ['db_5fdiscover_5fevt_5fhandler_1692',['db_discover_evt_handler',['../bt_8c.html#a0dea93dee7b072eadce5dcb926f00860',1,'db_discover_evt_handler(ble_db_discovery_evt_t *p_evt):&#160;bt.c'],['../bt_8h.html#a530294222dc5a4305be9a47ac251e0f1',1,'db_discover_evt_handler():&#160;bt.h']]],
+  ['db_5fenabled_1693',['db_enabled',['../storage_8c.html#a162aea4a535ceca8780acd32ec2f137a',1,'db_enabled():&#160;storage.c'],['../storage_8h.html#a162aea4a535ceca8780acd32ec2f137a',1,'db_enabled():&#160;storage.c']]],
+  ['db_5fget_1694',['db_get',['../storage_8c.html#a7789c1ac642851c857c7248d85dafa98',1,'db_get(uint8_t *buffer, uint16_t *length, uint16_t *request_type):&#160;storage.c'],['../storage_8h.html#a7789c1ac642851c857c7248d85dafa98',1,'db_get(uint8_t *buffer, uint16_t *length, uint16_t *request_type):&#160;storage.c']]],
+  ['db_5fget_5frelease_1695',['db_get_release',['../storage_8c.html#aba57a2549ae2caa46b7a6cb16a69b109',1,'db_get_release():&#160;storage.c'],['../storage_8h.html#aba57a2549ae2caa46b7a6cb16a69b109',1,'db_get_release():&#160;storage.c']]],
+  ['db_5fput_1696',['db_put',['../storage_8c.html#a0f1b629b450a7343485285f9dc43fbb6',1,'db_put(uint8_t *buffer, uint16_t length, uint16_t request_type):&#160;storage.c'],['../storage_8h.html#a0f1b629b450a7343485285f9dc43fbb6',1,'db_put(uint8_t *buffer, uint16_t length, uint16_t request_type):&#160;storage.c']]],
+  ['debug_1697',['debug',['../debug_8c.html#ab74bd14545a4c5ed6e74bcdcd31fcaa1',1,'debug(uint32_t flags):&#160;debug.c'],['../debug_8h.html#a8dbd5c96ec6265c07b913b582eb6d1a5',1,'debug(uint32_t flag):&#160;debug.c']]],
+  ['debug_5fcheck_5fhandler_1698',['debug_check_handler',['../debug_8c.html#ab129e1851adb8c1d0b64c5e260e2fa43',1,'debug_check_handler(uint32_t error_code, uint32_t line_num, uint8_t *p_file_name):&#160;debug.c'],['../debug_8h.html#a400e896fea05cec5e5f185bb0d70239a',1,'debug_check_handler(uint32_t error_code, uint32_t line_num, uint8_t *p_file_name):&#160;debug.c']]],
+  ['debug_5fflag_5ftoggle_1699',['debug_flag_toggle',['../debug_8c.html#a97eb33483a3b6244ed143305d3b46f09',1,'debug_flag_toggle(uint32_t flags):&#160;debug.c'],['../debug_8h.html#a823144e6d4cbf557043c16a091b6790f',1,'debug_flag_toggle(uint32_t flag):&#160;debug.c']]],
+  ['debug_5fflags_1700',['debug_flags',['../debug_8c.html#a2aef49f8a915b49ac9bcd27e85056b2e',1,'debug_flags():&#160;debug.c'],['../debug_8h.html#a2aef49f8a915b49ac9bcd27e85056b2e',1,'debug_flags():&#160;debug.c']]],
+  ['debug_5fflags_5fset_1701',['debug_flags_set',['../debug_8c.html#ac6b041b1287c095aa9e42a8e75147595',1,'debug_flags_set(uint32_t flags):&#160;debug.c'],['../debug_8h.html#ac6b041b1287c095aa9e42a8e75147595',1,'debug_flags_set(uint32_t flags):&#160;debug.c']]],
+  ['debug_5finit_1702',['debug_init',['../debug_8c.html#aed51223c2946020f1b5b26af2c2fd0e9',1,'debug_init():&#160;debug.c'],['../debug_8h.html#aed51223c2946020f1b5b26af2c2fd0e9',1,'debug_init():&#160;debug.c']]],
+  ['debug_5fputchar_1703',['debug_putchar',['../debug_8c.html#abad9b5aae1cb5820bbd39ac9ea902ae9',1,'debug.c']]],
+  ['drop_5fbluetooth_1704',['drop_bluetooth',['../bt_8c.html#ab19486d420754b78f1913adf70f77aa5',1,'drop_bluetooth():&#160;bt.c'],['../bt_8h.html#aebb1e69d55ba3cc9ad7a9ba4c8ab7f80',1,'drop_bluetooth(void):&#160;bt.c']]]
+];

@@ -1,0 +1,11 @@
+<map id="bti.h" name="bti.h">
+<area shape="rect" id="node1" title=" " alt="" coords="107,5,153,32"/>
+<area shape="rect" id="node2" href="$bt_8c.html" title=" " alt="" coords="5,155,52,181"/>
+<area shape="rect" id="node3" href="$bt_8h.html" title=" " alt="" coords="140,80,187,107"/>
+<area shape="rect" id="node4" href="$btc_8c.html" title=" " alt="" coords="76,155,120,181"/>
+<area shape="rect" id="node9" href="$btp_8c.html" title=" " alt="" coords="211,80,257,107"/>
+<area shape="rect" id="node5" href="$btdebug_8c.html" title=" " alt="" coords="280,155,324,181"/>
+<area shape="rect" id="node6" href="$main_8c.html" title=" " alt="" coords="348,155,392,181"/>
+<area shape="rect" id="node7" href="$phone_8c.html" title=" " alt="" coords="144,155,188,181"/>
+<area shape="rect" id="node8" href="$timer_8c.html" title=" " alt="" coords="212,155,256,181"/>
+</map>

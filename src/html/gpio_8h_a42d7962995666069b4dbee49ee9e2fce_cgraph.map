@@ -1,0 +1,11 @@
+<map id="gpio_motion_sense" name="gpio_motion_sense">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,140,159"/>
+<area shape="rect" id="node2" href="$comm_8c.html#a3f481720ff501f9212f8f03a602ee82f" title=" " alt="" coords="378,5,510,32"/>
+<area shape="rect" id="node5" href="$storage_8c.html#a5d7af32088297d42a7223923404be57d" title=" " alt="" coords="589,107,654,133"/>
+<area shape="rect" id="node6" href="$debug_8c.html#ab74bd14545a4c5ed6e74bcdcd31fcaa1" title=" " alt="" coords="415,56,473,83"/>
+<area shape="rect" id="node7" href="$gpio_8c.html#a42d7962995666069b4dbee49ee9e2fce" title=" " alt="" coords="188,107,323,133"/>
+<area shape="rect" id="node8" href="$sensor_8c.html#ad27f99cc31cb95c783f2bd58de4891da" title=" " alt="" coords="371,157,517,184"/>
+<area shape="rect" id="node9" href="$stats_8c.html#a732b9a48330877a6d8e416099eeb1802" title=" " alt="" coords="419,208,469,235"/>
+<area shape="rect" id="node3" href="$comm_8c.html#a6008fcb212784da5a0a0d186f09d9ce5" title=" " alt="" coords="565,5,677,32"/>
+<area shape="rect" id="node4" href="$comm_8c.html#aafd6cda05db639f3a6c3bd8fd3d50597" title=" " alt="" coords="725,5,823,32"/>
+</map>

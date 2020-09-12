@@ -1,0 +1,14 @@
+<map id="sensor_op_mode" name="sensor_op_mode">
+<area shape="rect" id="node1" title=" " alt="" coords="460,208,581,235"/>
+<area shape="rect" id="node2" href="$sensor_8h.html#ab6cf3c7a9edad17c32bb0a79b13b35aa" title=" " alt="" coords="254,5,359,32"/>
+<area shape="rect" id="node3" href="$send_8h.html#ac07d18a6b543f9a4cd1505fbf16f0549" title=" " alt="" coords="201,56,412,83"/>
+<area shape="rect" id="node6" href="$send_8h.html#a417fcf6cdbd8f424cd1306fbed7fd158" title=" " alt="" coords="225,107,388,133"/>
+<area shape="rect" id="node7" href="$sensor_8h.html#a43e7549bc6c3629e1d95956af07d5f19" title=" " alt="" coords="219,157,394,184"/>
+<area shape="rect" id="node8" href="$sensor_8h.html#a28a62e9188395dbe35da48a7016b9c9d" title=" " alt="" coords="227,208,386,235"/>
+<area shape="rect" id="node9" href="$sensor_8h.html#a8bf8e1e110d773d38fbd1d59f29ed01b" title=" " alt="" coords="239,259,374,285"/>
+<area shape="rect" id="node10" href="$send_8c.html#a97450f3e6890509279c9229cabe4bb0c" title=" " alt="" coords="256,309,357,336"/>
+<area shape="rect" id="node11" href="$send_8c.html#a0eddf6d36c75e75189b055629f7e3541" title=" " alt="" coords="269,360,344,387"/>
+<area shape="rect" id="node12" href="$timer_8c.html#a9b62831b291c252434ce82cc98e02c71" title=" " alt="" coords="238,411,375,437"/>
+<area shape="rect" id="node4" href="$send_8h.html#ae083225ca0b07d728a6edf3664afe85f" title=" " alt="" coords="5,31,153,57"/>
+<area shape="rect" id="node5" href="$send_8h.html#a65603cc68ddc723d12d9912603164405" title=" " alt="" coords="21,81,138,108"/>
+</map>

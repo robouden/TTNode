@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['data_2079',['data',['../unionttstorage__.html#a3a60bac7bef8d8eddf343ecaab7fa8cf',1,'ttstorage_']]],
+  ['data_5fhandler_2080',['data_handler',['../structbtp__s.html#ae30a82dfe34c9eca88497c8a51a1b0cb',1,'btp_s']]],
+  ['data_5flen_2081',['data_len',['../structdata__t.html#ad1a572736a10ff6b282c5f43c4ea1ccf',1,'data_t']]],
+  ['denies_2082',['denies',['../structstats__s.html#adb008e3f82af8b15db802f7ea89e6999',1,'stats_s']]],
+  ['denies_5ffullday_2083',['denies_fullday',['../structstats__s.html#a15de98fb57e4f8eade62c22d39c4fe76',1,'stats_s']]],
+  ['denies_5ftoday_2084',['denies_today',['../structstats__s.html#a8c4bfc3c6439f0db571356b6e3175e1f',1,'stats_s']]],
+  ['deprecated2017febdeviceidstring_2085',['DEPRECATED2017FEBDeviceIDString',['../struct__ttproto___telecast.html#a64b541bf15b1c4bfa77a81a0a9379b7d',1,'_ttproto_Telecast']]],
+  ['deprecated2017febvalue_2086',['DEPRECATED2017FEBValue',['../struct__ttproto___telecast.html#aef47de5323aecbb450b1793b823c2a20',1,'_ttproto_Telecast']]],
+  ['device_5fid_2087',['device_id',['../structttstorage___1_1storage___1_1versions___1_1v1__.html#a658c495cd1900eadce3b800e3ebdac7a',1,'ttstorage_::storage_::versions_::v1_::device_id()'],['../struct__ttproto___telecast.html#a658c495cd1900eadce3b800e3ebdac7a',1,'_ttproto_Telecast::device_id()']]],
+  ['device_5flabel_2088',['device_label',['../structttstorage___1_1storage___1_1versions___1_1v1__.html#a1b4791b6a5b5ead90af3160fb89529a2',1,'ttstorage_::storage_::versions_::v1_']]],
+  ['device_5ftype_2089',['device_type',['../struct__ttproto___telecast.html#a88bb7d179c4e396e5995269f9367e48a',1,'_ttproto_Telecast']]],
+  ['dfu_5fcount_2090',['dfu_count',['../structttstorage___1_1storage___1_1versions___1_1v1__.html#a3ea32daec1797a929371f665682ba851',1,'ttstorage_::storage_::versions_::v1_']]],
+  ['dfu_5ferror_2091',['dfu_error',['../structttstorage___1_1storage___1_1versions___1_1v1__.html#a15499957514bfe9690453fc41d4d21b9',1,'ttstorage_::storage_::versions_::v1_']]],
+  ['dfu_5ffilename_2092',['dfu_filename',['../structttstorage___1_1storage___1_1versions___1_1v1__.html#a28d315eb0b1edce08c64565dd12c7d95',1,'ttstorage_::storage_::versions_::v1_']]],
+  ['dfu_5fstatus_2093',['dfu_status',['../structttstorage___1_1storage___1_1versions___1_1v1__.html#a8c511caf5d5e71d9a52d8ca923c6dc54',1,'ttstorage_::storage_::versions_::v1_']]],
+  ['done_5fgroup_5fsettling_2094',['done_group_settling',['../structsensor__s.html#aede3d73e75f9694bde644125e9bb5bb7',1,'sensor_s']]],
+  ['done_5fsettling_2095',['done_settling',['../structsensor__s.html#a1b9e0eb5bd452e3ac85b12ae2d07a182',1,'sensor_s::done_settling()'],['../structgroup__s.html#a0873adbdd2875850e824e6626129d5e2',1,'group_s::done_settling()']]]
+];

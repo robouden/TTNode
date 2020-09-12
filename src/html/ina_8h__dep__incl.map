@@ -1,0 +1,8 @@
+<map id="ina.h" name="ina.h">
+<area shape="rect" id="node1" title=" " alt="" coords="155,5,205,32"/>
+<area shape="rect" id="node2" href="$ina_8c.html" title=" " alt="" coords="5,80,56,107"/>
+<area shape="rect" id="node3" href="$max01_8c.html" title=" " alt="" coords="80,80,131,107"/>
+<area shape="rect" id="node4" href="$phone_8c.html" title=" " alt="" coords="155,80,205,107"/>
+<area shape="rect" id="node5" href="$send_8c.html" title=" " alt="" coords="229,80,280,107"/>
+<area shape="rect" id="node6" href="$sensor_8c.html" title=" " alt="" coords="304,80,355,107"/>
+</map>
